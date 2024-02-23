@@ -14,6 +14,7 @@ The focus of this list is for CSharp developers. But you can use it as a base fo
    - Control structures (if, else, loops) ✅
    - Functions and methods ✅
    - Object-oriented programming in C# ✅
+   - LINQ (How to make consultations using C#)
 
 2. **Databases and SQL**:
    - Fundamentals of relational databases ✅

@@ -5,6 +5,7 @@
    - Estruturas de controle (if, else, loops)
    - Funções e métodos
    - Programação orientada a objetos em C# 
+   - LINQ (Como fazer consultas usando C#)
 
 2. **Bancos de Dados e SQL**:
    - Fundamentos de bancos de dados relacionais
